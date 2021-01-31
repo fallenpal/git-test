@@ -1,1 +1,2 @@
-# git-test
+# MyApp
+This is my App
